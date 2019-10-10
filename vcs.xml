@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/csci-142-20191/project1-1-apl8224.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/csci-142-20191/lab6-1-apl8224.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\alexl\IdeaProjects" />
